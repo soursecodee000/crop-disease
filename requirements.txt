@@ -1,8 +1,8 @@
-fastapi==0.95.0
-uvicorn==0.22.0
-tensorflow==2.19.0  # Updated TensorFlow version
-numpy==1.23.3
-pillow==9.2.0
-requests==2.28.1
-opencv-python==4.6.0.66
-matplotlib==3.6.2
+fastapi
+uvicorn
+tensorflow # Updated TensorFlow version
+numpy
+pillow
+requests
+opencv-python
+matplotlib
