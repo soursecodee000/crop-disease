@@ -1,6 +1,6 @@
 fastapi==0.95.0
 uvicorn==0.22.0
-tensorflow==2.10.0
+tensorflow==2.19.0  # Updated TensorFlow version
 numpy==1.23.3
 pillow==9.2.0
 requests==2.28.1
